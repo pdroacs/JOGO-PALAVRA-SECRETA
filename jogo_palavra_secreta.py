@@ -40,4 +40,4 @@ while True:
         print('A palavra era', palavra_secreta)
         print('Tentativas:', numero_tentativas)
         letras_acertadas = ''
-        asnumero_tentativas = 0
+        numero_tentativas = 0
